@@ -1,5 +1,14 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ShoofLLC)](https://git.io/awesome-stats-card)
 
+# Progress Robotics
+I'm the founder and CEO of Progress Robotics, which is a company based in Stuttgart, Germany currently in its very early stage. 
+
+## First Product
+I'm working on creating my first Robot, which will be a parallel delta style robot, the mechanical design is mostly finished, and it has been fully developed by myself. Software is still undergoing development.
+
+## Call to Action
+If you're a small company looking for automation solutions, I'm currently looking for a pilot project. Don't hesistate to contact me! (if you've found my github then you probably know my e-mail, contact me there)
+
 <!--
 **ShoofLLC/ShoofLLC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
