@@ -1,4 +1,4 @@
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ShoofLLC)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ShoofLLC?theme=tokyonight)](https://git.io/awesome-stats-card)
 
 # Progress Robotics
 I'm the founder and CEO of Progress Robotics, which is a company based in Stuttgart, Germany currently in its very early stage. 
